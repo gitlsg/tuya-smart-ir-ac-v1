@@ -1,4 +1,4 @@
-lkasmdflmasldfm
+test
 from tuya_connector import TuyaOpenAPI
 from .const import VALID_MODES
 from homeassistant.core import HomeAssistant
